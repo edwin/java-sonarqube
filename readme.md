@@ -8,3 +8,7 @@ $ mvn clean verify sonar:sonar \
         -DSONAR_PROJECT_NAME=xxxxx \ 
         -DSONAR_TOKEN=xxxxx
 ```
+
+## Result
+
+![result](/images/sonar-1.png)
