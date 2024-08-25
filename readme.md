@@ -12,3 +12,8 @@ $ mvn clean verify sonar:sonar \
 ## Result
 
 ![result](/images/sonar-1.png)
+
+## Blog Post
+```
+https://edwin.baculsoft.com/2024/08/java-and-sonarqube-integration-with-maven/
+```
