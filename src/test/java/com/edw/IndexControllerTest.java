@@ -37,8 +37,8 @@ public class IndexControllerTest {
     }
 
     @Test
-    @DisplayName("01. Test Get Employee Page should give 200")
-    public void test_getNotFoundEmployeePageShouldGive_200() {
+    @DisplayName("01. Test Get Index Page should give 200")
+    public void test_getIndexPageShouldGive_200() {
         given()
                 .log().all()
                 .accept(MediaType.APPLICATION_JSON_VALUE)
